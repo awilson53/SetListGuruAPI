@@ -4,7 +4,10 @@
 # User-specific files
 *.suo
 *.user
+<<<<<<< HEAD
 *.userosscache
+=======
+>>>>>>> 78a13423e53089a097147295c84b605ad2c18726
 *.sln.docstates
 
 # Build results
@@ -137,7 +140,11 @@ publish/
 **/packages/*
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
+<<<<<<< HEAD
 # Uncomment if necessary however generally it will be regenerated when needed
+=======
+# If using the old MSBuild-Integrated Package Restore, uncomment this:
+>>>>>>> 78a13423e53089a097147295c84b605ad2c18726
 #!**/packages/repositories.config
 
 # Windows Azure Build Output
@@ -148,7 +155,12 @@ csx/
 AppPackages/
 
 # Others
+<<<<<<< HEAD
 *.[Cc]ache
+=======
+sql/
+*.Cache
+>>>>>>> 78a13423e53089a097147295c84b605ad2c18726
 ClientBin/
 [Ss]tyle[Cc]op.*
 ~$*
@@ -158,7 +170,10 @@ ClientBin/
 *.pfx
 *.publishsettings
 node_modules/
+<<<<<<< HEAD
 bower_components/
+=======
+>>>>>>> 78a13423e53089a097147295c84b605ad2c18726
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -182,6 +197,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+<<<<<<< HEAD
 
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
@@ -191,3 +207,5 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+=======
+>>>>>>> 78a13423e53089a097147295c84b605ad2c18726
